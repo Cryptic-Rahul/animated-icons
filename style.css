@@ -72,5 +72,5 @@ body {
 }
 
 .navigation.active span:hover ion-icon {
-    color: rgb(0, 52, 195);
+    color: #fff;
 }
